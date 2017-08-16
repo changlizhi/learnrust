@@ -1,0 +1,8 @@
+[package]
+name = "myrust"
+version = "0.1.0"
+authors = ["changlz <changlizhi@aliyun.com>"]
+
+[dependencies]
+
+rand="0.3.0"
